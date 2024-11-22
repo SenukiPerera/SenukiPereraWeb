@@ -116,6 +116,32 @@ abbr[data-original-title] {
   height: 800px;
 }
 
+#services-section{
+  margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;
+}
+
+@media (min-width: 576px) {
+  .one-third.js-fullheight img{
+    height: 532px !important;
+    width: 512px !important; /* Replace with your desired height */
+    margin-bottom: 10% !important;
+    margin: 20px auto !important;
+  }
+  #about-section{
+    margin-bottom: 10%;
+  }
+  #services-section{
+    margin-top: 90%;
+  } }
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px; } }
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px; } }
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px; } }
 
 .img img{
   width:500px;
