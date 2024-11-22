@@ -134,14 +134,20 @@ abbr[data-original-title] {
     margin-top: 90%;
   } }
 @media (min-width: 768px) {
-  .container {
-    max-width: 720px; } }
+  #services-section{
+    margin-top: 10%;
+  } }
 @media (min-width: 992px) {
-  .container {
-    max-width: 960px; } }
+  .one-third.js-fullheight img{
+    margin-left: 35% !important;
+  }
+.col-md-6.col-lg-3.d-flex.ftco-animate{
+  margin-left: 15%;
+} }
 @media (min-width: 1200px) {
-  .container {
-    max-width: 1140px; } }
+  .one-third.js-fullheight img{
+    margin-left: 20% !important;
+  } }
 
 .img img{
   width:500px;
