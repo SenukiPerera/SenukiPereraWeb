@@ -156,11 +156,15 @@ abbr[data-original-title] {
 
 @media (min-width: 576px) {
   .one-third.js-fullheight img{
-    height: 532px !important;
-    width: 512px !important; /* Replace with your desired height */
-    margin-bottom: 10% !important;
+    height: 200px !important;
+    width: 180px !important; /* Replace with your desired height */
+    margin-bottom: 50% !important;
     margin: 20px auto !important;
+    padding-top: 0% !important;
+    visibility: hidden;
+
   }
+ 
   #about-section{
     margin-bottom: 10% !important;
   }
