@@ -152,9 +152,7 @@ abbr[data-original-title] {
     visibility: hidden;
   }
 }
-@media (min-width: 480px){
- 
-}
+
 @media (max-width: 576px) {
   .one-third.js-fullheight img{
     height: 532px;
@@ -167,12 +165,17 @@ abbr[data-original-title] {
  }
 
 @media (max-width: 768px) {
+  .hero-img{
+    margin: auto auto !important;
+    visibility: hidden;
+  }
   #services-section{
     margin-top: 10% !important;
   } }
 @media (max-width: 992px) {
-  .one-third.js-fullheight img{
-    margin-left: 35% !important;
+  .hero-img{
+    margin: auto auto !important;
+    visibility: hidden;
   }
 .col-md-6.col-lg-3.d-flex.ftco-animate{
   margin-left: 15% !important;
