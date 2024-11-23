@@ -120,6 +120,40 @@ abbr[data-original-title] {
   margin-top: 0px; margin-bottom: 0px; padding-bottom: 0px; padding-top: 0px;
 }
 
+.titles {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.titles div {
+  margin: 0 15%;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-active{
+  position: relative;
+}
+.title-active::after{
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  border: 3px solid var(--yellow);
+  width: 50%;
+}
+
+.row.projects {
+  display: none;
+}
+.row.projects.title-active {
+  display: flex;
+}
+
 @media (min-width: 576px) {
   .one-third.js-fullheight img{
     height: 532px !important;
