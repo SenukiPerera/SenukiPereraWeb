@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SenukiPereraWeb/static/css/main.65f94d56.css",
+    "main.js": "/SenukiPereraWeb/static/js/main.216ee6a1.js",
+    "static/js/453.6264690d.chunk.js": "/SenukiPereraWeb/static/js/453.6264690d.chunk.js",
+    "static/media/coffee_house.png": "/SenukiPereraWeb/static/media/coffee_house.057cb7abe1739dfa5f25.png",
+    "static/media/I A S M Perera_CV.pdf": "/SenukiPereraWeb/static/media/I A S M Perera_CV.799f3b1ae90a7abfd7e4.pdf",
+    "static/media/movies.png": "/SenukiPereraWeb/static/media/movies.12455a667fa1af825bc0.png",
+    "static/media/govimadala.png": "/SenukiPereraWeb/static/media/govimadala.d7935c85c741aee926b9.png",
+    "static/media/me.png": "/SenukiPereraWeb/static/media/me.eafb4c1947e025058478.png",
+    "static/media/techflex.png": "/SenukiPereraWeb/static/media/techflex.93e6de0c9dde3012ae0e.png",
+    "static/media/BOCApp.png": "/SenukiPereraWeb/static/media/BOCApp.79d4bbd17aa84255b1e0.png",
+    "static/media/noir.png": "/SenukiPereraWeb/static/media/noir.55cd098a13c2226de120.png",
+    "static/media/MindcareApp.png": "/SenukiPereraWeb/static/media/MindcareApp.be10b7d6af1181a3b1f5.png",
+    "static/media/govimadala_logo.png": "/SenukiPereraWeb/static/media/govimadala_logo.9f5b6f84b57408aca1ed.png",
+    "index.html": "/SenukiPereraWeb/index.html",
+    "main.65f94d56.css.map": "/SenukiPereraWeb/static/css/main.65f94d56.css.map",
+    "main.216ee6a1.js.map": "/SenukiPereraWeb/static/js/main.216ee6a1.js.map",
+    "453.6264690d.chunk.js.map": "/SenukiPereraWeb/static/js/453.6264690d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f94d56.css",
+    "static/js/main.216ee6a1.js"
+  ]
+}
